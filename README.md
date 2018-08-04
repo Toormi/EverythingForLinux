@@ -1,5 +1,5 @@
 # EverythingForLinux
-Immediate search tool for linux, seems like Everything on Windows
+Immediate search tool for linux, similar to Everything on Windows
 
 For use:
 make &&
